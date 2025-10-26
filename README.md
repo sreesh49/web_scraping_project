@@ -27,6 +27,7 @@ This project is a web scraping application designed to extract hotel details fro
    - Price 💰
    - Location 📍
    - Rating ⭐
+   - Score
    - Review Count 📝
    - Booking Link 🔗
 3. The extracted data is **saved into a CSV file** in the local directory.
