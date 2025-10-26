@@ -47,6 +47,6 @@ This project is a web scraping application designed to extract hotel details fro
 ## 📌 Example Output (CSV Format)
 ```
 hotel_name, locality, price, rating, score, review, link
-"The Grand Hotel", "Mumbai, India", "₹5000", "4.5", "9.2", "1200 reviews", "https://booking.com/example"
+"The Grand Hotel", "New Delhi, India", "₹5000", "4.5", "9.2", "1200 reviews", "https://booking.com/example"
 ...
 ```
